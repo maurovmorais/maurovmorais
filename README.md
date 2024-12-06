@@ -11,6 +11,7 @@
     <a href="https://www.python.org/"><img aling="center" alt="pyhton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
     <a href="https://www.sqlite.org/"><img aling="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
     <a href="https://code.visualstudio.com/"><img aling="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+    <a href="https://pt-br.botcity.dev/"><img aling="center" alt="botcity" src="https://cdn.prod.website-files.com/6487203eebdb29c0fff6af27/66193a64d8ee208d28e3796f_logo_botcity_2024.svg" width="80"></a>
 </div><br/>
 Desenvolvendo automações em UiPath | Botcity - Pyhton para desrobotizar as pessoas.
 
