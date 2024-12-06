@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**maurovmorais/maurovmorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou Mauro Morais.😎
 
-Here are some ideas to get you started:
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurovmorais/)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maurovmorais)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Mauro Morais GitHub stats](https://github-readme-stats.vercel.app/api?username=maurovmorais&show_icons=true&theme=dracula)
+
+### Tecnologias que eu uso
+<div style="display: inline_block">
+    <img aling="center" alt="pyhton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img aling="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img aling="center" alt="vscode  " src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div><br/>
+Desenvolvendo automações em UiPath | Botcity - Pyhton para desrobotizar as pessoas.
+
