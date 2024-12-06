@@ -18,5 +18,4 @@
 <div style="display: inline_block">
     <a href="https://snyk.io/advisor/code/python/p"><img aling="center" alt="snyk" src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"></a>
 </div><br/>
-Desenvolvendo automações para desrobotizar as pessoas.
-
+Desenvolvendo automações para libertar as pessoas da robotização.
